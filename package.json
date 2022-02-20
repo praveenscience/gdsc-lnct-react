@@ -20,7 +20,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build",
-    "dep": "git push && npm run build && cp build/index.html build/404.html && echo app.rezume.best > build/CNAME-D && npm run deploy"
+    "dep": "git push && npm run build && cp build/index.html build/404.html && echo dinki.jigg.win > build/CNAME && npm run deploy"
   },
   "eslintConfig": {
     "extends": [
