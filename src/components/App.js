@@ -17,7 +17,7 @@ class App extends Component {
             <div className="col-12 col-md-6">
               <figure className="text-center">
                 <img
-                  src="https://i.imgur.com/DQFI0Slh.png"
+                  src={Data.Avatar}
                   alt={`${Data.Name.FName} ${Data.Name.LName}`}
                   className="img-thumbnail rounded-circle w-75 my-3"
                 />
